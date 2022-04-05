@@ -1,0 +1,14 @@
+.btn-danger .logout {
+  position: right;
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 165vh !important;
+    margin-top: 10vh !important;
+  }
+}
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: 78vh !important;
+  }
+}
