@@ -17,7 +17,7 @@ The priority was to learn Backend Development, so I haven't focused on CSS and I
 
 # If you wanna use that project for yourself, please notice that:
 When using the Project, please overlook the MySQL Connections, or it won't work.
-In the CREATE.sql is the setup of the Tables for that Interface.
+In the .sql files is the setup of the Tables for that Interface.
 
 # Here you go!
 Have fun!
